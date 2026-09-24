@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Navbar dark pill background -->
+  <rect width="64" height="64" rx="16" fill="#0b0d11" stroke="#1f242f" stroke-width="1.5" />
+
+  <g fill="#ffffff">
+    <!-- M -->
+    <path d="M 7 44 L 7 20 L 14.5 20 L 19 32.5 L 23.5 20 L 31 20 L 31 44 L 25 44 L 25 28.5 L 21 39.5 L 17 39.5 L 13 28.5 L 13 44 Z" />
+    <!-- A -->
+    <path d="M 33 44 L 40 20 L 47.5 20 L 54.5 44 L 48 44 L 46.5 38.5 L 41 38.5 L 39.5 44 Z M 42.2 33.5 L 45.3 33.5 L 43.75 27.5 Z" />
+  </g>
+
+  <!-- Accent dot positioned cleanly after the A -->
+  <circle cx="58" cy="41.5" r="3.2" fill="#7c65f6" />
+</svg>
